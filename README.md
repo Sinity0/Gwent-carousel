@@ -9,3 +9,8 @@ Initialization:
 ```swift
 var carousel: PMGwentCarousel?
 ```
+Next card:
+
+```swift
+carousel?.showNextCard(frameType: getFrameType(named: frameRef), imageURL: url!, cardText: pcs!)
+```
