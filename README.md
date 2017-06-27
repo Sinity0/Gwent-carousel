@@ -1,3 +1,5 @@
+[![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)]
+
 # Gwent-carousel
 A simple to use, carousel similar to the carousel in Gwent game.
 
