@@ -14,3 +14,8 @@ Next card:
 ```swift
 carousel?.showNextCard(frameType: getFrameType(named: frameRef), imageURL: url!, cardText: pcs!)
 ```
+
+Previous card:
+```swift
+carousel?.showPreviousCard(frameType: getFrameType(named: frameRef), imageURL: url!, cardText: pcs!)
+```
